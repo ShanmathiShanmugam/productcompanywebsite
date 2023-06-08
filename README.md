@@ -584,8 +584,22 @@ Publish the website in the given URL.
 ```
 
 ### Home Page:
+![hp](https://github.com/ShanmathiShanmugam/productcompanywebsite/assets/121243595/27e10986-ade2-4955-a7f9-88068bb5ab0b)
 
+### Product page: 
+![prod1](https://github.com/ShanmathiShanmugam/productcompanywebsite/assets/121243595/4259c6d9-ae15-4c94-8be6-eea84119f922)
 
+![prod2](https://github.com/ShanmathiShanmugam/productcompanywebsite/assets/121243595/f65182cc-0bee-4998-8818-1aea92443be5)
+
+### People page:
+![ppl1](https://github.com/ShanmathiShanmugam/productcompanywebsite/assets/121243595/752ad2b3-2d84-4ebb-8b78-3573c62d9c96)
+
+![ppl2](https://github.com/ShanmathiShanmugam/productcompanywebsite/assets/121243595/d530a9cc-8d16-4f16-8f09-c014d846df91)
+
+![ppl3](https://github.com/ShanmathiShanmugam/productcompanywebsite/assets/121243595/c85b88f5-fd74-47cc-95ab-74ee19ab41dc)
+
+### Contact us page:
+![contact](https://github.com/ShanmathiShanmugam/productcompanywebsite/assets/121243595/b4c340de-b763-4f78-98dd-6e349d90adf7)
 
 ## Result:
 
